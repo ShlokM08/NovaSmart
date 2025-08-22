@@ -1,54 +1,64 @@
-📊 Nova Smart Project – Business Intelligence Dashboard
-📌 Project Overview
+# 📊 Nova Smart Project – Business Intelligence Dashboard
+## 📌 Project Overview
 
-This project presents an end-to-end Business Intelligence (BI) dashboard solution for Nova Smart, focusing on revenue, profit, product categories, and regional performance. The aim is to provide stakeholders with clear, data-driven insights to support better decision-making.
+The Nova Smart BI Dashboard is an end-to-end data visualization project built in Power BI, designed to transform raw business data into actionable insights.
 
-The dashboard was built in Power BI and includes:
+The dashboard focuses on:
 
-KPI tracking
+📈 Tracking Revenue & Profit trends over time
 
-Revenue & Profit analysis
+🛍️ Analyzing Product Category performance
 
-Product Category and Regional breakdowns
+🌍 Understanding Regional breakdowns of sales and profits
 
-Descriptive insights in bullet points
+🎯 Highlighting top-performing categories for strategic decision-making
 
-📂 Dashboard Structure
+👉 Goal: Empower stakeholders with clear, data-driven insights to support business growth and operational efficiency.
 
-The project is organized into the following report pages:
+## 📂 Dashboard Structure
 
-Cover Page – Title and project introduction.
+The report is organized into the following interactive pages:
 
-KPI Overview – High-level metrics such as Total Revenue, Total Profit, and Growth.
+Cover Page – Title, project details, and branding
 
-Revenue & Profit Trends – Time series analysis to identify performance patterns.
+KPI Overview – Key metrics:
 
-Category & Region Breakdown – Performance comparisons across product categories and regions.
+Total Revenue
 
-Additional Category & Region Insights – Deep dives into category-region combinations.
+Total Profit
 
-Insights Page – Summarized descriptive insights in bullet points for quick reference.
+Top Product Category by Revenue
 
-📊 Key Insights (Descriptive)
+Revenue & Profit Trends – Line charts showing monthly revenue & profit patterns
 
-Revenue & Profit Trends: Overall revenue showed fluctuations, with a slight decline towards the later months of 2023.
+Category & Region Breakdown – Stacked bar charts and comparative views
 
-Product Categories: Sports and Beauty generated the highest profits, while Electronics had relatively lower profitability.
+Additional Deep-Dive – Category × Region profitability insights
 
-Regional Breakdown: North America and South America were the strongest revenue drivers.
+Insights & Summary Page – Bullet-point descriptive insights for quick reference
 
-Category × Region View: South America consistently contributed higher margins across multiple categories.
+## 📊 Key Insights
 
-⚙️ Tools & Technologies
+Revenue & Profit Trends → Revenue showed fluctuations, with noticeable dips towards late 2023. Profit trends followed a similar pattern.
 
-Power BI – For dashboard creation, visualizations, and DAX calculations.
+Product Categories → Sports and Beauty outperformed other categories in profitability, while Electronics underperformed.
 
-Excel – For dataset preparation and initial data validation.
+Regional Analysis → North America and South America were the strongest drivers of revenue.
 
-🚀 How to Use
+Category × Region → South America consistently delivered higher margins across multiple categories.
 
-Open the Power BI file (.pbix) or the exported report (if provided).
+## ⚙️ Tools & Technologies
 
-Navigate through the pages using the bottom tabs.
+Power BI → Dashboard creation, DAX measures, and visualizations
 
-Review KPIs, trends, and insights to support strategic decisions.
+Excel → Data preparation, cleaning, and validation
+
+## 🚀 How to Use
+
+Open the Power BI file (.pbix) or exported report.
+
+Use the navigation tabs at the bottom to switch between report pages.
+
+Interact with slicers (e.g., Region, Category) to filter insights dynamically.
+
+Review KPI cards and visual breakdowns to support decision-making.
